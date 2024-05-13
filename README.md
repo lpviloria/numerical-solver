@@ -9,3 +9,5 @@ The Numerical Solver is an application I created for my final requirement in CMS
  - Quadratic spline interpolation
 
 • Calculation of the optimal diet from a given set of food items - maximizing nutrients whilst minimizing total cost
+
+Luis Angelo Viloria © 2023
